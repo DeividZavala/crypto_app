@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/13972980/179444860-82142fc3-368d-4efb-8f15-5f3ee1fdc42a.jpeg" alt="crypto-app-preview" width="300"/>
+
 # crypto_app
 
 A new Flutter project.
